@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Squibid
-- 📫 You can reach me at Squibid#0001 on discord
+- 📫 You can reach me at `Squibid#4756` on discord
 
 <!---
 Squibid/Squibid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
