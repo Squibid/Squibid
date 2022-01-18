@@ -1,3 +1,3 @@
 - Hi, I’m @Squibid
-- You can reach me at `Squibid#4756` on discord
+- You can reach me at `Squibid#4756` on Discord or `@Squibid` on Revolt
 - I am currently leaning **Python**, and **Shell**
