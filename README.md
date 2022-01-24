@@ -1,3 +1,3 @@
 - Hi, I’m @Squibid
-- You can reach me at `Squibid#4756` on Discord or `@Squibid` on Revolt
-- I am currently leaning **Python**, and **Shell**
+- You can reach me at `Squibid#4756` on discord or `@Squibid` on Revolt
+- I am currently leaning <img src="https://img.icons8.com/color/20/000000/python.png"> **Python**, and <img src="https://img.icons8.com/plasticine/24/000000/bash.png"/>**Bash**
