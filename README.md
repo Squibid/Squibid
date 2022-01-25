@@ -1,5 +1,5 @@
 - Hi, I’m @Squibid
-- You can reach me at <img src="https://img.shields.io/badge/Squibid4756-404eed?style=flat&logo=discord&logoColor=white" alt="Discord" />
+- You can reach me at <a href="https://discord.com"><img src="https://img.shields.io/badge/Squibid4756-404eed?style=flat&logo=discord&logoColor=white" alt="Discord" /></a> <a href="https://revolt.chat"><img src="https://img.shields.io/badge/@Squibid-ff4654?style=flat&logo=revolt.chat&logoColor=white" alt="Discord" /></a>
 - I am currently learning:
 
 <a href="https://www.python.org/">
