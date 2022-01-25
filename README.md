@@ -4,10 +4,8 @@
 
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-37709f?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a> <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash-3D4648?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" /></a>
 
-<details><summary> My coding stats</summary><br />
+<details><summary> 👾 My coding stats</summary><br />
 
 ![top langs dark](https://github-readme-stats.vercel.app/api/top-langs/?username=squibid&theme=dark&count_private=true&layout=compact&hide=css,html#gh-dark-mode-only)
-
-![top langs light](https://github-readme-stats.vercel.app/api/top-langs/?username=squibid&count_private=true&layout=compact&hide=css,html#gh-light-mode-only)
   
 </details>
