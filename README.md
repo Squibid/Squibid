@@ -6,7 +6,6 @@
 
 <details><summary> 👾 My coding stats</summary><br />
 
-![top langs dark](https://github-readme-stats.vercel.app/api/top-langs/?username=squibid&theme=dark&count_private=true&hide=css,html) 
-![github grade](https://github-readme-stats.vercel.app/api?username=squibid&theme=dark&show_icons=true)
+![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=squibid&theme=dark&count_private=true&hide=css,html&layout=compact) 
   
 </details>
