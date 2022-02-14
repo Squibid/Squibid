@@ -6,6 +6,6 @@
 
 <details><summary> 👾 My coding stats</summary><br />
 
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=squibid&theme=dark&count_private=true&hide=css,html&layout=compact) 
+![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=squibid&theme=codeSTACKr&count_private=true&hide=css,html&layout=compact) 
   
 </details>
