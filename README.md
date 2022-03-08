@@ -2,7 +2,7 @@
 - <details><summary> 📟 You can reach me at </summary><br />
   
   <a href="https://discord.com"><img src="https://img.shields.io/badge/Squibid4756-404eed?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> 
-  <a href="https://revolt.chat"><img src="https://img.shields.io/badge/@Squibid-ff4654?style=for-the-badge&logo=revolt.chat&logoColor=white" alt="revolt" /></a>
+  <a href="https://revolt.chat"><img src="https://img.shields.io/badge/@Squibid-ff4654?style=for-the-badge&logo=Revolut&logoColor=white" alt="revolt" /></a>
 
 </details>
 
