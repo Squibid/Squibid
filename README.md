@@ -8,7 +8,7 @@
 
 - 💻 I am currently learning:
 
-<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-37709f?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a> <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash-3D4648?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" /></a>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-37709f?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a> <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash-3D4648?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" /></a> <a href="open=std.org/jtc1/sc22/wg14"><img src="https://img.shields.io/badge/C-485A62?style=for-the-badge&logo=C&logoColor=white" alt="Bash" /></a>
 
 - <details><summary> 👾 My coding stats</summary><br />
 
