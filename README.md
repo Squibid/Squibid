@@ -12,7 +12,7 @@
 
 - <details><summary> 👾 My coding stats</summary><br />
 
-  ![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=squibid&theme=dark&layout=compact) 
+  ![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=squibid&theme=dark&layout=compact&hide=html) 
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=squibid&theme=dark)](https://git.io/streak-stats)
   
