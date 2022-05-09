@@ -1,9 +1,7 @@
 - Hi 👋, I’m @Squibid 
 - <details><summary> 📟 You can reach me at </summary><br />
   
-  <a href="https://discord.com"><img src="https://img.shields.io/badge/Squibid4756-404eed?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> 
-  <a href="https://revolt.chat"><img src="https://img.shields.io/badge/@Squibid-ff4654?style=for-the-badge&logo=Revolut&logoColor=white" alt="revolt" /></a>
-  <a href="https://mastodon.social/@Squibid"><img src="https://img.shields.io/badge/@Squibid-2b90d9?style=for-the-badge&logo=Mastodon&logoColor=white" alt="Mastadon" /></a>
+  https://squi.bid/contact.html
   
 </details>
 
